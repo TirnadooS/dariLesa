@@ -1,0 +1,8 @@
+forest-game/
+├── index.html
+├── style.css
+├── game.js
+├── assets/
+│   ├── textures/
+│   ├── models/ (если будут 3D-модели)
+└── README.md
